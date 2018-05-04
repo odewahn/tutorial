@@ -1,0 +1,7 @@
+ray
+tensorflow
+gym
+scipy
+opencv-python
+bokeh
+ipywidgets==6.0.0
